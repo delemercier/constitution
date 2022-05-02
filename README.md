@@ -31,8 +31,23 @@ L'écriture de la constitution s'effectue selon les règles suivantes :
 - Chaque groupe écrit une constitution
 - Un référendum est organisé pour choisir la constitution
 
-Les groupes de citoyens seront filmés, diffusés en direct, et contrôlés financièrement avant, pendant et après le travail d'écriture. 
+Les citoyens seront rémunérés avec un montant minimum ou avec le même salaire qu'ils touchent. 
+Les employeurs seront également dédommagés le temps de l'écriture de la constitution. 
 
+Les groupes de citoyens seront filmés, diffusés en direct, et contrôlés financièrement avant, pendant et après le travail d'écriture. 
+Si une preuve de corruption survient, la peine capitale sera automatiquement prononcée contre le corrupteur et le corrompu. 
 
 Ces règles s'appliquent également pour la réécriture de la constitution.
+
+# Titre III- De la modification de la constitution
+
+## ARTICLE xx
+
+La modification de la constitution et de la pre-constitution se fait par référendum d'initiative citoyenne. 
+
+Une modification doit être cohérente et atomique, seules les modifications strictement nécessaires sont proposées pour un référendum. 
+Une modification doit être approuvée avec au moins 75% plus une voix. 
+
+
+
 
