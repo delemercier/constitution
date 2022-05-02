@@ -22,4 +22,17 @@ Cela signifie que seul le Peuple peut :
 
 Le Peuple Citoyen est composé des personnes de 21 ans ou plus, ayant la nationalité.
 
+# Titre II- De l'écriture de la constitution
+
+## ARTICLE xx
+
+L'écriture de la constitution s'effectue selon les règles suivantes :
+- 3 groupes de citoyens tirés au sort de n personnes 
+- Chaque groupe écrit une constitution
+- Un référendum est organisé pour choisir la constitution
+
+Les groupes de citoyens seront filmés, diffusés en direct, et contrôlés financièrement avant, pendant et après le travail d'écriture. 
+
+
+Ces règles s'appliquent également pour la réécriture de la constitution.
 
