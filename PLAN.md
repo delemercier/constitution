@@ -12,4 +12,4 @@
 
 6. A suivre...
 
-7. La consitution est votée, début la phase de transition, voir (Transition)[TRANSITION.md].
+7. La consitution est votée, début la phase de transition, voir, [Transition] (TRANSITION.md) .
