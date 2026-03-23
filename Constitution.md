@@ -31,26 +31,26 @@ TODO: mettre details
 
 
 **Article 3 – Tirage au sort**  
-Tous les citoyens ayant passé l'ECS peut être tiré au sort chaque année s'il n'a pas déjà eu un mandat. 
+Tous les citoyens ayant passé l'ECS peuvent être tiré au sort chaque année s'il n'a pas déjà eu un mandat. 
 
 Chaque année le 14 juin, un tiers des citoyens spécialisés sont tirés au sort. 
 Ils prendront leur fonction le premier lundi de septembre et seront formés 4 semaines par les tirés au sort sortants. 
 
 Quantité des citoyens par spécialité: 
-- 500 législateurs  
-- 500 communaux par région  
+- 501 législateurs  
+- 501 communaux par région  
 - 300 judiciaires  
-- 50 constitutionnels  
-- 200 contrôleurs  
+- 51 constitutionnels  
+- 201 contrôleurs  
 
-Mandat : **3 ans maximum, non renouvelable**.  
+Mandat : **3 ans, non renouvelable**.  
 Après le mandat, retour automatique au statut normal (sauf interdiction temporaire en cas de faute).
 
 **Article 4 – Rôles précis**  
 - **Législateur** : prépare et vote les lois (maximum 50 lois en vigueur en permanence).  
 - **Communal** : gère ou conseille la commune (budget, services locaux, urbanisme).  
-- **Judiciaire** : juge les litiges, instruit les affaires pénales simples, applique les peines (aucun juge professionnel).  
-- **Constitutionnel** : seul habilité à proposer et voter les modifications constitutionnelles.  
+- **Judiciaire** : juge les litiges, instruit les affaires pénales simples, applique les pei1es (aucun juge professionnel).  
+- **Constitutionnel** : seul habilité à proposer et voter les modification titutionnelles.  
 - **Contrôleur** : supervise les tirages au sort, vérifie la neutralité de l’Administrateur général et du Gardien.
 
 **Article 5 – Saisine citoyenne**  
