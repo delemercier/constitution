@@ -1,12 +1,10 @@
 ### **CONSTITUTION DE LA DÉMOCRATIE AUTONOMISTE**  
-**Adoptée par référendum fondateur – Version 1.0**
 
 #### **PRÉAMBULE**  
 La Nation est une démocratie autonomiste.  
 Tout pouvoir vient des citoyens.  
-L’État n’est qu’un outil au service des communes et des individus.  
-Aucune loi ne peut dépasser 3 pages A4 en langage courant.  
-Toute personne âgée de 18 à 65 ans est citoyenne normale.
+L’État n’est qu’un outil au service des communes et des individus.
+Toute personne âgée de 21 à 65 ans est citoyen normal, et peut devenir un citoyen spécialisé.
 
 ---
 
@@ -14,33 +12,35 @@ Toute personne âgée de 18 à 65 ans est citoyenne normale.
 
 **Article 1 – Catégories de citoyens**  
 Il existe six catégories :  
-1. Citoyen normal (18-65 ans)  
+1. Citoyen normal
 2. Citoyen législateur  
 3. Citoyen communal  
 4. Citoyen judiciaire  
 5. Citoyen constitutionnel  
 6. Citoyen contrôleur  
 
-**Article 2 – Accès aux catégories supérieures**  
-Tout citoyen normal peut passer **l’Examen Citoyen Unique** (ECU).  
-L’ECU est organisé deux fois par an, gratuit, en ligne + centre local.  
-Contenu (3 heures maximum) :  
-- Constitution (20 questions)  
-- Éthique publique et lutte contre la corruption  
-- Connaissances de base en droit simplifié et économie autonomiste  
-- Raisonnement civique (2 cas pratiques)  
+**Article 2 – Accès aux catégories spécialisées**  
+Tout citoyen normal peut passer **l’Examen Citoyen Spécialisé** (ECS).  
+L’ECS est un QCM, organisé une fois par an, gratuit, en centre local.
 
-Note minimale : 75 %.  
-Un seul essai par semestre.  
-Le résultat est public et anonymisé.
+Chaque examen dure une heure et la note minimale est de 80%.
+
+Le contenu diffère selon la spécialité. 
+
+TODO: mettre details 
+
 
 **Article 3 – Tirage au sort**  
-Tous les citoyens ayant réussi l’ECU forment **le Grand Vivier**.  
-Chaque année, un tirage au sort public (transmis en direct) désigne :  
-- 1 000 législateurs  
+Tous les citoyens ayant passé l'ECS peut être tiré au sort chaque année s'il n'a pas déjà eu un mandat. 
+
+Chaque année le 14 juin, un tiers des citoyens spécialisés sont tirés au sort. 
+Ils prendront leur fonction le premier lundi de septembre et seront formés 4 semaines par les tirés au sort sortants. 
+
+Quantité des citoyens par spécialité: 
+- 500 législateurs  
 - 500 communaux par région  
 - 300 judiciaires  
-- 100 constitutionnels  
+- 50 constitutionnels  
 - 200 contrôleurs  
 
 Mandat : **3 ans maximum, non renouvelable**.  
